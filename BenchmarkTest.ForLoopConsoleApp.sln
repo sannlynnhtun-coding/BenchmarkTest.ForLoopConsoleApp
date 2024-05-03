@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkTest.ForLoopConsoleApp", "BenchmarkTest.ForLoopConsoleApp\BenchmarkTest.ForLoopConsoleApp.csproj", "{F6ACF461-AC0E-4F60-A605-4C834E382E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6ACF461-AC0E-4F60-A605-4C834E382E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6ACF461-AC0E-4F60-A605-4C834E382E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6ACF461-AC0E-4F60-A605-4C834E382E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6ACF461-AC0E-4F60-A605-4C834E382E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {316EFF2A-D0D1-4B64-ADE4-850E54FC618C}
+	EndGlobalSection
+EndGlobal
